@@ -1,0 +1,9 @@
+.about {
+  background-color: #626569;
+  padding: 2rem;
+  text-align: center;
+  border: black solid;
+  color: beige;
+  opacity: 0.9; /* Slightly transparent */
+}
+

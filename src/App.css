@@ -11,3 +11,13 @@
   color: white;
   display: sticky;
 }
+
+body {
+  background-image: url("../src/assets/coder-coding.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed; /* Makes the background stay in place on scroll */
+  margin: 0; /* Remove default margins to prevent layout issues */
+  height: 100%; /* Ensure full height coverage */
+}

@@ -1,0 +1,32 @@
+.contact {
+  background-color: #f0f4f8;
+  text-align: center;
+}
+
+.form {
+  display: flex;
+  flex-direction: column;
+  max-width: 50%;
+  text-align: center;
+  margin-left: 25%;
+  border: solid black;
+  border-radius: 0.45rem;
+  padding: 0.25%;
+  background-color: #626569;
+  margin-bottom: 5%;
+  opacity: 0.9; /* Slightly transparent */
+}
+
+.form label {
+  margin-top: 2%;
+}
+
+.form input {
+  margin-bottom: 5%;
+  border: gray solid;
+}
+
+.form textarea {
+  margin-bottom: 5%;
+  border: gray solid;
+}
