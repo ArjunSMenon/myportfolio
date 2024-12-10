@@ -4,7 +4,7 @@ import "./Footer.css";
 const Footer = () => {
   return (
     <footer className="footer">
-      <nav className="horizontal-list">
+      <nav className="footer-horizontal-list">
         <div className="copyright">
           © 2024 Arjun S Menon
         </div>
@@ -12,7 +12,7 @@ const Footer = () => {
           arjun.smenon.95@gmail.com
         </a>
       </nav>
-      <ul>
+      <ul className="footer-ul">
         <li><a href="/">Home</a></li>
         <li><a href="#projects">Projects</a></li>
         <li><a href="#contact">Contact</a></li>

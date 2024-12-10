@@ -3,7 +3,7 @@
   padding: 20px;
 }
 
-ul {
+.footer-ul {
   list-style: none;
   display: flex;
   gap: 15px;
@@ -11,14 +11,14 @@ ul {
   margin: 10px 0 0;
   justify-content: center;
 }
-li {
+.footer-ul li {
   margin: 0 15px;
 }
-ul li a {
+.footer-ul li a {
   color: #fff;
   text-decoration: none;
 }
-.horizontal-list {
+.footer-horizontal-list {
   color: beige;
   text-decoration: none;
   display: flex;
