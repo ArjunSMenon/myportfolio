@@ -1,8 +1,11 @@
 .contact {
-  background-color: #f0f4f8;
+  background-color: #626569;
   text-align: center;
+  margin-top: 2%;
 }
-
+.contact h2 {
+  color: #f0f4f8;
+}
 .form {
   display: flex;
   flex-direction: column;
@@ -12,21 +15,34 @@
   border: solid black;
   border-radius: 0.45rem;
   padding: 0.25%;
-  background-color: #626569;
-  margin-bottom: 5%;
+  background-color: #f0f4f8;
   opacity: 0.9; /* Slightly transparent */
 }
 
 .form label {
+  background-color: #626569;
+  color: #f0f4f8;
   margin-top: 2%;
 }
 
 .form input {
-  margin-bottom: 5%;
+  background-color: #f0f4f8;
+  margin-bottom: 2%;
   border: gray solid;
 }
 
 .form textarea {
-  margin-bottom: 5%;
+  background-color: #f0f4f8;
+  margin-bottom: 2%;
   border: gray solid;
+}
+
+.form button {
+  background-color: #626569;
+  color: #f0f4f8;
+  width: 50%;
+  height: 25%;
+  margin-left: 25%;
+  margin-bottom: 2%;
+  position: unset;
 }

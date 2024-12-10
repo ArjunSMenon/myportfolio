@@ -1,15 +1,18 @@
 .home {
   text-align: center;
-  padding: 4rem;
-  background-color: #f0f4f8;
+  padding: 2rem;
+  background-color: #626569;
   opacity: 0.9; /* Slightly transparent */
+  margin-top: 2%;
+  height: 11rem;
 }
 .home h1 {
+  color: #f0f4f8;
   font-size: 3rem;
-  margin-bottom: 1rem;
 }
 
 .home p {
+  margin-top: 1rem;
   font-size: 1.5rem;
-  color: #555;
+  color: #f0f4f8;
 }
