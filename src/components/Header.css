@@ -16,4 +16,5 @@
 }
 .horizontal-list li a {
   color: beige;
+  text-decoration: none;
 }
